@@ -19,7 +19,7 @@ We're huge fans of the [Rust programming language](https://rust-lang.org), and o
 
 ## Our Favorite Projects
 
-This is ideally meant to be a list, but a lot of our projects are being worked upon and yet to be open sourced. So I'm gonna put my favorite one here:
+This is ideally meant to be a list, but a lot of our open-source projects are being worked upon and yet to be open sourced. So I'm gonna put my favorite one here:
 
 - **[Preprocess](https://github.com/patr-cloud/preprocess)**: This rust crate allows you to preprocess your entire structs before using them. This can be used to declaratively mention the processing and validation required for each field in your struct and enum so that they are mutated and preprocessed as per your requirements before you use them.
 
