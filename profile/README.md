@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://patr.cloud"><img src="https://patr.cloud/static/images/patr-logo.svg" width="50%" /></a>
+	<a href="https://patr.cloud"><img src="./patr-logo.svg" width="50%" /></a>
 	<h1 style="color: red">Patr - Simplicity at scale</h1>
 </div>
 
